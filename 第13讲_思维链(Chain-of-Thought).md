@@ -3,6 +3,8 @@
 > **LLM 100讲系列 - 推理能力核心篇**
 
 ---
+<img width="413" height="348" alt="Clipboard_Screenshot_1770779881" src="https://github.com/user-attachments/assets/6ff71915-151a-4366-ad72-fe920f8fd219" />
+
 
 ## 一、基本定义与原理
 
